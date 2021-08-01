@@ -4,7 +4,7 @@ CREATE AND DEPLOY A DEFI APP
 
 <br />
 
-### Steps
+### Steps ( my token )
 
     truffle init
 
@@ -35,3 +35,19 @@ CREATE AND DEPLOY A DEFI APP
 ![truffle console](./balance.png)
 
 <br />
+
+### Create farm token and deploy ( farm token )
+
+    truffle compile
+
+    truffle migrate
+
+### Test farm token ( added getMyTokenBalance.js to automate the test)
+
+    truffle exec .\scripts\getMyTokenBalance.js
+
+    truffle exec .\scripts\transferMyTokenToFarmToken.js
+
+    truffle exec .\scripts\withdrawMyTokenFromTokenFarm.js
+
+![farm token](./farm.png)
