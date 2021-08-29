@@ -54,4 +54,4 @@ CREATE AND DEPLOY A DEFI APP
 
 <br />
 
-### [Reference](https://ethereum.org/en/developers/tutorials/create-and-deploy-a-defi-app/) for this contracts
+### [Reference](https://medium.com/@justinben/create-and-deploy-a-defi-app-a5d4e040da86) for this contracts
